@@ -12,3 +12,9 @@ link: https://lyfuuoo.github.io
 ### website
 ![Activity 2 web Screenshot](screenshots/activity_2_web_screenshot.png)
 
+## Activity 3 screenshot 
+### repo
+![Activity 3 repo Screenshot](screenshots/activity_3_repo_screenshot.png)
+### website
+![Activity 3 web Screenshot](screenshots/activity_3_web_screenshot.png)
+
