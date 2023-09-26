@@ -18,3 +18,8 @@ link: https://lyfuuoo.github.io
 ### website
 ![Activity 3 web Screenshot](screenshots/activity_3_web_screenshot.png)
 
+## Activity 4 screenshot 
+### repo
+![Activity 4 repo Screenshot](screenshots/activity_4_repo_screenshot.png)
+### website
+![Activity 4 web Screenshot](screenshots/activity_4_web_screenshot.png)
